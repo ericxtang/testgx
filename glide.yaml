@@ -1,0 +1,5 @@
+package: github.com/livepeer/testgx
+import:
+- package: github.com/golang/glog
+- package: github.com/multiformats/go-multiaddr
+  vcs: gx
